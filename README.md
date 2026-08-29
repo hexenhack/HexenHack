@@ -5,6 +5,11 @@
 <h1 align="center"> Hexen</h1>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Hexen/Hexen/main/image_8.png" width="400" alt="fsociety Logo">
+</p>
+
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Cybersecurity+Enthusiast;Python+&+C+Developer;Welcome+to+my+profile!" alt="Typing SVG">
 </p>
 
