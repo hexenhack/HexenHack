@@ -5,7 +5,7 @@
 <h1 align="center"> Hexen</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hexen/Hexen/main/image_8.png" width="400" alt="fsociety Logo">
+  <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=500&auto=format&fit=crop&q=60" width="350" alt="Hacker Visual">
 </p>
 
 
