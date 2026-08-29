@@ -7,6 +7,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Cyber+Security+Enthusiast;Developer+and+Coder;Welcome+to+my+profile!" alt="Typing SVG">
 </p>
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ffurares/ffurares/main/dosya_yolu/image_7.png" width="200" alt="Hacker Profil Resmi">
+</p>
+
 
 ---
 
