@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=750&lines=Linux+%7C+Hack+Tool+%7C+Python+Developer+Hack+Projeleri+Geliştiriyorum;Networking+ve+Siber+Güvenlik+Odaklı" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=750&lines=Linux+%7C+Hack+Tool+%7C+Python+Developer;Hack+Projeleri+Geliştiriyorum;Networking+ve+Siber+Güvenlik+Odaklı" alt="Typing SVG">
 </p>
 
 ---
