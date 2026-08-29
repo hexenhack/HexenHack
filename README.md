@@ -1,17 +1,13 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/1000043104.gif/giphy.gif" width="100%" alt="Hacker Banner">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=750&lines=Linux+%7C+Hack+Tool+%7C+Python+Developer;Hack+Projeleri+Geliştiriyorum;Networking+ve+Siber+Güvenlik+Odaklı" alt="Typing SVG">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hexenhack/Hack-Tool/main/UZUN_DOSYA_ADINI_BURAYA_YAPISTIR" width="300" alt="Hackerman">
 </p>
 
 <h1 align="center"> Hexen</h1>
 
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=500&auto=format&fit=crop&q=60" width="350" alt="Hacker Visual">
-</p>
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=750&lines=Linux+%7C+Hack+Tool+%7C+Python+Developer;Hack+Projeleri+Geliştiriyorum;Networking+ve+Siber+Güvenlik+Odaklı" alt="Typing SVG">
-</p>
 
 ---
 
