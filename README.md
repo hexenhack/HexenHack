@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=750&lines=Furares+(Sefa)+%7C+Linux+Security+Tooling+%7C+Python+Developer;CLI+Araçları+ve+Security+Projeleeri+Geliştiriyorum+%7C+Networking+ve+Siber+Güvenlik+Odaklı" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=750&lines=Linux+Security+Tooling+%7C+Python+Developer;CLI+Araçları+ve+Security+Projeleri+Geliştiriyorum+%7C+Networking+ve+Siber+Güvenlik+Odaklı" alt="Typing SVG">
 </p>
 
 ---
